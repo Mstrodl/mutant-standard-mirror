@@ -1,42 +1,24 @@
 Stats
-- Published 2018-06-30 (GMT)
+- Published 2018-07-27 (GMT)
 
-- 715 individual emoji
-- 3473 emoji including colour modifiers
+- 770 individual emoji
+- 3524 emoji including colour modifiers
 
-New emoji:
-- Cat smilies
-- :eyes:
-- :orange_heart:
-- :enbian_flag:
-- :omnisexual_flag:
+New emoji (a lot):
+- Party-themed emoji
+- Transport and places emoji
+- Unicode 11.0 smilies
+- Sparkles, bangs and flames
+- Non-national flags
 
 
 Changed emoji:
-Lots and lots and lots and lots. 
-Hundreds have been edited. 
-All existing smilies have been redesigned.
-
+- Professions have been moved to a new 'activities' folder and category.
+- Slightly improved apple emoji
+- Improved `raising_hand`
+- Slightly improved `dango` and `oden` emoji.
+- `onigiri` has a nice ricey texture now.
+- Some recent animal emoji have been given Unicode codepoints (as they were added in Unicode 11.0)
 
 Changed shortcodes:
-grin_w_sweat -> sweat_smile
-very_big_smile -> happy
-grinning -> grin
-grin_teeth -> grinning
-laughing_w_tears -> joy
-devious_horns -> imp_devious
-angry_horns -> imp_angry
-face_w_medical_mask -> medical_mask
-wild_face -> crazy
-cold_sweat -> sweat
-scared_cold_sweat -> cold_sweat
-
-crt_w_blue_screen -> crt_blue_screen
-crt_w_green_lines -> crt_green_lines
-crt_w_noise -> crt_noise
-crt_w_prompt -> crt_prompt
-crt_w_test_pattern -> crt_test_pattern
-phone_w_arrow -> phone_with_arrow
-
-globe_w_lines -> globe
-diamond_w_dot -> diamond_with_dot
+metro -> metro_sign

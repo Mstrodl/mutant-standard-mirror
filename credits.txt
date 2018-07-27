@@ -11,8 +11,8 @@ Dzuk
 
 
 
-Programmer of exporting scripts and 
-other awesome technical assistance <3
+Maker of Orxporter
+and other technical assistance <3
 --------------------------------------------
 kiilas
 (Mastodon: @kiilas@computerfairi.es)
@@ -50,13 +50,14 @@ BeartrapSandwich
 catdad
 Charles
 Crom
-Cybrespace
+chr
+Dan Conley
 dansup
 Dante
 DJ Sundog
 Dustine
 Eldan Goldenberg
-Faye Dukhovni
+Faye
 Goathorns
 iliana weller
 Infocalypse
@@ -69,8 +70,9 @@ Leo Tindall
 lol dongs
 masklayer
 mattbutnot
+Michael Pruitt
 Michael Van Vleet
-Myk Bilokonsky
+Mykola Bilokonsky
 Nick Gallego
 nightpool
 Oliver Uvman
@@ -84,9 +86,10 @@ William Pitcock
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
 
+
 Special Thanks
 
-kiilas, Takanu, Mykola Bilokonsky, kyzh, Daggertooth (multiple creatures are typing), weirder.earth, Monsterpit and all the cool people on Mastodon.
+kiilas, Mykola Bilokonsky, kyzh, Daggertooth (multiple creatures are typing), Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on ActivityPub social networks.
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚

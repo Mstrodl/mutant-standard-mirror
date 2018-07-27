@@ -1,8 +1,8 @@
-MUTANT STANDARD EMOJI SET
-0.2.4 (alpha)
+MUTANT STANDARD EMOJI
+0.2.5 (alpha)
 mutant.tech
 
-Published 2018.06.30 (GMT)
+Published 2018.07.27 (GMT)
 
 ----------------------------------------------------------------------
 
