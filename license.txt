@@ -1,8 +1,8 @@
 MUTANT STANDARD EMOJI
-0.2.5 (alpha)
+0.3.0 (alpha)
 mutant.tech
 
-Published 2018.07.27 (GMT)
+Published 2018.08.25 (GMT)
 
 ----------------------------------------------------------------------
 

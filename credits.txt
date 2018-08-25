@@ -49,6 +49,8 @@ Brian Hicks
 BeartrapSandwich
 catdad
 Charles
+Clar Charr
+Clawfire
 Crom
 chr
 Dan Conley
@@ -57,6 +59,7 @@ Dante
 DJ Sundog
 Dustine
 Eldan Goldenberg
+Ernest Samuel Tomlinson
 Faye
 Goathorns
 iliana weller
@@ -81,6 +84,7 @@ Queen of Avalon
 Shel Raphen
 Siphonay
 William Pitcock
+Zac Epps
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
@@ -89,7 +93,7 @@ William Pitcock
 
 Special Thanks
 
-kiilas, Mykola Bilokonsky, kyzh, Daggertooth (multiple creatures are typing), Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on ActivityPub social networks.
+kiilas, Mykola Bilokonsky, kyzh, Daggertooth (multiple creatures are typing), Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on Mastodon.
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
