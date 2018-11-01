@@ -26,10 +26,9 @@ kiilas
 Supporters
 --------------------------------------------
 These are the amazing people who have been 
-funding this work non-anonymously via Patreon.
+funding this via Patreon.
 
-I'd also like to give a shoutout to the people 
-donating anonymously on Liberapay, everyone 
+I'd also like to give a shoutout to everyone 
 who has donated on PayPal, and everyone who 
 has bought merch!
 
@@ -40,10 +39,12 @@ mutant.tech/donate.
 
 A.M Santos
 Alex Bridge
+Alex Dubois
 Alison Coluccio
 Amanda Bannon
 Anne-Eris Amplisa
 Aros
+Ave O.
 Brian
 Brian Hicks
 BeartrapSandwich
@@ -51,6 +52,7 @@ catdad
 Charles
 Clar Charr
 Clawfire
+Crash beast
 Crom
 chr
 Dan Conley
@@ -61,26 +63,39 @@ Dustine
 Eldan Goldenberg
 Ernest Samuel Tomlinson
 Faye
+Flip
 Goathorns
+Holly V
 iliana weller
 Infocalypse
 Irick Corwal
+Isabelle Knott
+Jamie
 Jonas 'Zatnosk'
 jeremy
+Karew
 KinkyBoys Podcast
 Kit Redgrave
+Lambda
 Leo Tindall
 lol dongs
+Liam Cooke
+Markus Kitsinger (SwooshyCueb)
 masklayer
 mattbutnot
 Michael Pruitt
 Michael Van Vleet
+Mitchel Spears
 Mykola Bilokonsky
+Mx Fraud
+mydarkstar
 Nick Gallego
 nightpool
 Oliver Uvman
 Ollie Lovette
 Queen of Avalon
+Sariya Melody
+Scryfall
 Shel Raphen
 Siphonay
 William Pitcock
@@ -93,7 +108,7 @@ Zac Epps
 
 Special Thanks
 
-kiilas, Mykola Bilokonsky, kyzh, Daggertooth (multiple creatures are typing), Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on Mastodon.
+kiilas, Mykola Bilokonsky, kyzh, multiple_creatures, Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on Mastodon.
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚

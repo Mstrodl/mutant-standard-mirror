@@ -1,44 +1,37 @@
 Stats
 —————————————————
-- Published 2018-08-25 (GMT)
-- 786 individual emoji
-- 6964 emoji including colour modifiers
+- Published 2018-10-31 (GMT)
+- 854 individual emoji
+- 7030 emoji including colour modifiers
 
-
-The beginning of PUA encoding, as well as a full Shared CM set!
 
 
 New emoji:
 —————————————————
-- New gender symbols
-- New pride flags
-- Some fun Unicode 11 objects (firecracker, toilet roll, brick)
-- Traffic lights
+- New tech objects
+- New furry symbols
+- New places and travel emoji
+- New plant emoji
+- Lynx emoji!
 
 
 
 Changed emoji:
 —————————————————
-- Improved smileys (now with tongues!)
-- Improved dice, swords, potions and other objects.
-- Bolder, more readable font for latin symbols.
-- Detached arrows.
-- `lesbian_flag` is now a more recognisable flag.
+- Normalised colour palettes in more emoji
 
 
 
 Other improvements
 —————————————————
-- Features all-new colour modifiers, part of a new complete ‘shared’ colour modifier set.
-- PUA encoding has begun for many emoji specific to Mutant Standard
-- More encoding for Unicode Standard emoji
-- Locked shortcodes for ‘shared’ colours.
-- Foldered smileys so they’re easier to navigate.
-- Using a better compression app so packages no longer have Mac resource files (like .DS_Store)
+- Much more accurate codepoint packages
+- Hyena is finally in felids. You’re welcome.
 
 
 
 Changed shortcodes:
 —————————————————
-- jolly_rodger -> pirate_flag
-- male_female_symbol -> male_and_female_symbol (to make room for another symbol that is called male_female_symbol)
+- queer100 -> pride_100
+- norse_rune_stones -> rune_stones
+
+
