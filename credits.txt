@@ -3,9 +3,10 @@
 
 
 
-Designer, creator, emoji planner
+Designer, creator, emoji planner, programmer
 --------------------------------------------
 Dzuk
+(noct.zone)
 (Mastodon: @dzuk@weirder.earth)
 (Twitter: @Dzuque)
 
@@ -36,23 +37,26 @@ If you want to help too, check out
 mutant.tech/donate.
 
 
-
-A.M Santos
-Alex Bridge
+'leftie
+A.M. Santos
+Abridge
 Alex Dubois
 Alison Coluccio
 Amanda Bannon
+Andrew Montagne
 Anne-Eris Amplisa
 Aros
-Ave O.
+Avynaria
 Brian
 Brian Hicks
-BeartrapSandwich
+Brook Peterson
+Bursik Badger
 catdad
 Charles
-Clar Charr
+Cheryl TZ
+chr
+Clar Fon
 Clawfire
-Crash beast
 Crom
 chr
 Dan Conley
@@ -61,44 +65,52 @@ Dante
 DJ Sundog
 Dustine
 Eldan Goldenberg
+Emilia
 Ernest Samuel Tomlinson
 Faye
+Fen Slattery
+Filipe 'shello' Rodrigues
 Flip
-Goathorns
+Franziska Haninger
+Gerd
 Holly V
 iliana weller
 Infocalypse
 Irick Corwal
 Isabelle Knott
-Jamie
-Jonas 'Zatnosk'
 jeremy
 Karew
 KinkyBoys Podcast
 Kit Redgrave
 Lambda
-Leo Tindall
-lol dongs
+Leoλ
 Liam Cooke
+Little James
 Markus Kitsinger (SwooshyCueb)
 masklayer
-mattbutnot
 Michael Pruitt
 Michael Van Vleet
+Milo Keeble
 Mitchel Spears
-Mykola Bilokonsky
+multiple creatures
 Mx Fraud
 mydarkstar
 Nick Gallego
 nightpool
+Niko Nawalany
 Oliver Uvman
 Ollie Lovette
 Queen of Avalon
+Rachel
+Rafiq 'Regal'
+Raphael Schweikert
 Sariya Melody
 Scryfall
 Shel Raphen
 Siphonay
+Tessa N
 William Pitcock
+Yiff.Life
 Zac Epps
 
 
@@ -108,7 +120,7 @@ Zac Epps
 
 Special Thanks
 
-kiilas, Mykola Bilokonsky, kyzh, multiple_creatures, Aros, Takanu, amphetamine, weirder.earth, Monsterpit and all the cool people on Mastodon.
+amphetamine, Aros, kiilas, kyzh, Mykola Bilokonsky, multiple_creatures, Siphonay, Takanu Kyriako, weirder.earth, Monsterpit and all the cool people on Mastodon.
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚

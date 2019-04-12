@@ -1,37 +1,45 @@
 Stats
 —————————————————
-- Published 2018-10-31 (GMT)
-- 854 individual emoji
-- 7030 emoji including colour modifiers
+- Published 2019-04-11 (GMT)
+- 934 individual emoji
+- 7111 emoji including colour modifiers
 
 
 
-New emoji:
+New things
 —————————————————
-- New tech objects
-- New furry symbols
-- New places and travel emoji
-- New plant emoji
-- Lynx emoji!
-
-
-
-Changed emoji:
-—————————————————
-- Normalised colour palettes in more emoji
-
-
-
-Other improvements
-—————————————————
-- Much more accurate codepoint packages
-- Hyena is finally in felids. You’re welcome.
+- Fonts public beta (SVGinOT, sbixOT, sbixOT for iOS)
+- An updated look with hundreds of emoji designs improved
+- 86 new emoji
+- Text description data for all emoji
+- Smaller SVG and PNG files
+- WebP format
 
 
 
 Changed shortcodes:
 —————————————————
-- queer100 -> pride_100
-- norse_rune_stones -> rune_stones
+coffee -> hot_drink
+exclamation_mark_red -> red_exclamation_mark
+exclamation_mark_gray -> gray_exclamation_mark
+question_mark_red -> red_question_mark
+question_mark_gray -> gray_question_mark
+heart_growing -> growing_heart
+black_large_square -> large_black_square
+white_large_square -> large_white_square
+black_medium_square -> medium_black_square
+white_medium_square -> medium_white_square
+white_medium_small_square -> medium_small_white_square
+black_medium_small_square -> medium_small_black_square
+white_small_square -> small_white_square
+black_small_square -> small_black_square
+red_umbrella -> umbrella
+male_and_female_symbol -> female_and_male_symbol
+film_projector -> projector
 
 
+
+Removed emoji
+—————————————————
+- qr_code
+- guard

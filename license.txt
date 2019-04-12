@@ -1,8 +1,8 @@
-MUTANT STANDARD EMOJI
-0.3.1 (alpha)
+Mutant Standard emoji
+0.4.0 (alpha)
 mutant.tech
 
-Published 2018.10.31 (GMT)
+Published 2019.04.11 (GMT)
 
 ----------------------------------------------------------------------
 
